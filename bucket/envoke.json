@@ -1,0 +1,22 @@
+{
+    "version": "0.1.4",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Neirda24/envoke/releases/download/v0.1.4/envoke_0.1.4_windows_amd64.zip",
+            "bin": [
+                "envoke.exe"
+            ],
+            "hash": "aab5ec909b3931cb05cf107d4401b5a0919bcb624fa524c8d7d68aceebee0586"
+        },
+        "arm64": {
+            "url": "https://github.com/Neirda24/envoke/releases/download/v0.1.4/envoke_0.1.4_windows_arm64.zip",
+            "bin": [
+                "envoke.exe"
+            ],
+            "hash": "1d4c2d3d4f1e98f1e20ed065a8412cce58b42088dbe6477b2b49aa1ea006026a"
+        }
+    },
+    "homepage": "https://github.com/Neirda24/envoke",
+    "license": "MIT",
+    "description": "Runs shell scripts when you cd into or out of a directory"
+}
