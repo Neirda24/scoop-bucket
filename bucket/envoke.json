@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Neirda24/envoke/releases/download/v0.2.0/envoke_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/Neirda24/envoke/releases/download/v0.3.0/envoke_0.3.0_windows_amd64.zip",
             "bin": [
                 "envoke.exe"
             ],
-            "hash": "5f5c312767dc85f8a7f63c1b894a907c2813731f9533fbe7dbb1c3f1c56a4228"
+            "hash": "ad39e89ffc3730096a6e46c9add4c273e8edb796dfa64b6e2293e2d453234570"
         },
         "arm64": {
-            "url": "https://github.com/Neirda24/envoke/releases/download/v0.2.0/envoke_0.2.0_windows_arm64.zip",
+            "url": "https://github.com/Neirda24/envoke/releases/download/v0.3.0/envoke_0.3.0_windows_arm64.zip",
             "bin": [
                 "envoke.exe"
             ],
-            "hash": "244d8e3d7007ca7791333663fbb47de0d11cc95bd04d4fa0a70b705cedfce40c"
+            "hash": "14c1c08bf7f0b62637229b0aec8746a0bbd728d569775f3b5812be86bf018327"
         }
     },
     "homepage": "https://github.com/Neirda24/envoke",
